@@ -1,3 +1,54 @@
+# .How to learn Net7’s top technologies CLR, JIT, and MSIL core technologies?
+#Excellent binary engineer (public account: jianghupt)
+![image](https://github.com/tangyanzhi/jianghupt/blob/main/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png)
+
+
+Many people ask how to get started with high-end technologies in .Net, such as CLR, JIT, MSIL, Microsoft's top core technologies, and how to learn them?
+
+# Lack of information:
+Since the domestic Microsoft top-level technology stack resources are very scarce and materials are scarce, many people even want to learn but don’t know how to start. For this reason, I personally developed a set of .Net CLR advanced video tutorials. In order to accurately restore the most cutting-edge .Net technology, the operating mode of CLR is explained based on the new .Net7.
+
+# Open source spirit:
+In order to be in line with the spirit of open source, the tutorial uses a Linux distribution and today's most advanced debugging tool LLDB to explain the source code of the CLR. By analyzing the CLR, you can thoroughly understand the top technologies of the Microsoft technology stack.
+
+
+
+# Introduction to learning chapters:
+1. Preface--CLR source code research (introduction to development environment and debugging tools)
+
+2.Net7 CLR source code operating model
+
+3. Abnormal operation principle of Net7 CLR source code research
+
+4.Net7 CLR value GC mark operation mode
+
+5.Net7 CLR source code research on fixed objects Section 1
+
+6.Net7 CLR source code research on fixed objects Section 2
+
+7.Net8 PreView2 SDK runs on Arm64 OS
+
+8.Net7 CLR source code memory model
+
+9.Net7 CLR source code research MethodTable tag
+
+10. How do the three major compilers of Net7 AOT, Roslyn, ILC, and JIT, work together?
+
+
+### Currently there are 10 videos, and CLR source code research technology will be added in the future. In order to conform to and promote the technical spirit of freedom, open source, and sharing. The videos are completely free. Follow the public account: jianghupt. Backstage reply: dotnet7. Get all the video tutorials above.
+
+
+
+# How to learn?
+Continuous learning is the foundation of technology. There are several learning methods that I would like to share with you.
+1. Read more official Microsoft tutorials, which are the most authoritative.
+2. Visit more foreign websites, such as YouTube, Google Technology Forum, and Linux open source community, where you can meet the most cutting-edge and highest-level programmers. You can also learn a lot.
+3. Practice more by yourself, do more and write more. As the old saying goes: all talk and no practice.
+
+Finally, I wish you all to take your technology to the next level.
+
+
+
 # .Net7顶级技术CLR，JIT，MSIL核心技术怎么学？
 # 绝级的二进制工程师(公众号:jianghupt）
 ![image](https://github.com/tangyanzhi/jianghupt/blob/main/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png)
