@@ -1,6 +1,3 @@
-
-# 分享.NET 顶级技术文章:
-
 # .How to learn Net7’s top technologies CLR, JIT, and MSIL core technologies?
 #Excellent binary engineer (public account: jianghupt)
 
